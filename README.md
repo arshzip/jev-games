@@ -1,8 +1,4 @@
-# jev-games
-
-[I had Jev play a bunch of games](https://arsh.zip/posts/jev-games/)
-
-
+# [I had Jev play a bunch of games](https://arsh.zip/posts/jev-games/)
 
 ## What's in the post, and where it lives here
 
