@@ -1,0 +1,8 @@
+{
+  "requested_model": "jev-1.13.0",
+  "created_at": "2026-09-22T20:38:51.641438+00:00",
+  "planned_cases": 122,
+  "planned_questions": 190,
+  "protocol": "One independent state per request. Related questions are batched. Ground truth and decoded references are not sent. Fixed option orders (pinned from the historical run). No model decoder or external tools provided. No prompt suggests picking unknown.",
+  "suite_sha256": "ac08c51e5ad5f01798c1d4aeb1b61ccef45650b29e8d9d5c4b8a573e43466921"
+}
