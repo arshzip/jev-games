@@ -10,7 +10,7 @@
 | Python tracing (12 snippets) | `code-*` |
 | Counting ones (12 strings) | `parity-*` |
 | Ignoring untrusted notes (24 requests) | `injection-*` |
-| Recognizing missing information (6 cases, **no prompt mentions unknown**) | `missing-*` |
+| Recognizing missing information (6 cases) | `missing-*` |
 
 ## Run it
 
