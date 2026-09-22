@@ -1,8 +1,8 @@
 # jev-games
 
-Suite behind the post [“I had Jev play a bunch of games”](https://arsh.zip/posts/jev-games/). Pinned model `jev-1.13.0`; every recorded response reports it.
+[I had Jev play a bunch of games](https://arsh.zip/posts/jev-games/)
 
-Committed evidence: **122 requests / 249 judgments**.
+
 
 ## What's in the post, and where it lives here
 
